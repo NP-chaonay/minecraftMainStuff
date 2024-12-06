@@ -13,7 +13,7 @@
 ## [ส่วนของ การแก้ไข]
 ## + หากต้องการทำการแก้ไขไฟล์นี้
 ##    - แนะนำให้แก้ผ่าน pull req แทน
-##    - ผมไม่ได้ copy code ไว้ทั้งหมดล่วงหน้านะครับ ให้ไปดูที่ "https://raw.githubusercontent.com/Mojang/bedrock-samples/refs/heads/main/resource_pack/texts/en_GB.lang" แทน
+##    - ผมไม่ได้ copy code ไว้ทั้งหมดล่วงหน้านะครับ ให้ไปดูที่ "https://raw.githubusercontent.com/Mojang/bedrock-samples/refs/tags/v1.21.50.7/resource_pack/texts/en_GB.lang" แทน
 ##      - หากต้องการเทียบคำแปลไทยกับอังกฤษ ให้ใช้การทำ diff ได้ครับ
 ##    - ไฟล์นี้อิงตามรุ่น stable ล่าสุดนะครับ หากไฟล์นี้รุ่นเก่า ให้ทำการ
 ##      -) ดูว่ามีการ เพิ่ม/แก้ไข/ลบออก จากรุ่นก่อน ตรงไหน
