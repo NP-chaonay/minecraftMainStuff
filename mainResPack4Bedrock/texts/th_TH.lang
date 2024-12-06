@@ -67,3 +67,19 @@ menu.quiz=ตอบคำถาม	#
 menu.storageManagement=ที่จัดเก็บ	#
 menu.behaviors=แพ็กการทำงาน	#
 menu.worldtemplates=แม่แบบโลก	#
+
+## -----------------------------------------------------------------------------
+addExternalServerScreen.addServer=เพิ่มเซิร์ฟเวอร์
+addExternalServerScreen.addTitle=เพิ่มเซิร์ฟเวอร์ภายนอก
+addExternalServerScreen.alreadyAdded=เพิ่มเซิร์ฟเวอร์นี้แล้ว
+addExternalServerScreen.editTitle=แก้ไขเซิร์ฟเวอร์ภายนอก
+addExternalServerScreen.ipPlaceholder=โปรดป้อนที่อยู่เซิร์ฟเวอร์
+addExternalServerScreen.ipTextBoxLabel=ที่อยู่เซิฟเวอร์
+addExternalServerScreen.namePlaceholder=โปรดป้อนชื่อเซิร์ฟเวอร์
+addExternalServerScreen.nameTextBoxLabel=ชื่อเซิร์ฟเวอร์
+addExternalServerScreen.playButtonLabel=เล่น
+addExternalServerScreen.portTextBoxLabel=พอร์ต
+addExternalServerScreen.removeButtonLabel=ลบ
+addExternalServerScreen.removeConfirmation=แน่ใจไหมว่าต้องการลบเซิร์ฟเวอร์นี้
+addExternalServerScreen.saveButtonLabel=บันทึก
+## -----------------------------------------------------------------------------
